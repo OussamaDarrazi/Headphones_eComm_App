@@ -1,6 +1,13 @@
-# boat_app
+# Headphone ECommerce UI concept
 
-A new Flutter project.
+## Preview :
+<img src="https://user-images.githubusercontent.com/34890717/235152978-6ca53960-f9a0-4c16-bab4-6e09009f55b3.png" width=100px>
+
+
+## Original Design :
+- [Figma](https://www.figma.com/file/KOaBmnKQU9TGbz06vXPdUz/App-design-(Community))
+
+
 
 ## Getting Started
 
