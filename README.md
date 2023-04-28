@@ -1,7 +1,7 @@
 # Headphone ECommerce UI concept
 
 ## Preview :
-<img src="https://user-images.githubusercontent.com/34890717/235152978-6ca53960-f9a0-4c16-bab4-6e09009f55b3.png" width=100px>
+<img src="https://user-images.githubusercontent.com/34890717/235152978-6ca53960-f9a0-4c16-bab4-6e09009f55b3.png" width=300px>
 
 
 ## Original Design :
